@@ -23,7 +23,7 @@ export default function RootLayout({
     <head>
       <link rel="stylesheet" href="https://use.typekit.net/bys6brz.css"/>
     </head>
-    <body>
+    <body className="bg-blue-flor">
     <Header/>
     {children}
     </body>
